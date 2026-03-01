@@ -35,7 +35,7 @@ The lab environment provides hands‑on practice with AD administration and demo
 
 Below is the high‑level topology of the lab.  DC1 is the primary domain controller and hosts DNS/DHCP.  DC2 is a second domain controller that replicates the AD database.  The file server provides shared storage, and a Windows 10 client is joined to the domain.
 
-![Enterprise Network Topology](diagrams/enterprise-network-topology.png)
+![Enterprise Network Topology](enterprise-network-topology.png)
 
 ---
 
